@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-A Software Developer who plays with Python and Interested in AWS Cloud.
+I am Object Oriented Software Developer and AWS Cloud Practitioner.
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [jumskenji@gmail.com](mailto:jumskenji@gmail.com)
